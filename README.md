@@ -13,7 +13,7 @@ Testnet is released at 500 members! Get the latest release at https://github.com
 
 License: AGPL v3 Contributor Covenant
 
-Community
+#Community
 
 Homepage: https://
 Blog: https://
@@ -33,7 +33,7 @@ Blockchain REST Providers
 
 [Tba]
 
-Docs
+#Docs
 
 Install the Metacat light client (Windows, Mac & Linux)
 How to use the Metacat light client
